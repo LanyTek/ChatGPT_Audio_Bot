@@ -12,3 +12,5 @@ RUN python3 -m pip install -r requirements.txt
 RUN python3 -m pip install nemo_toolkit['all']
 
 COPY . .
+
+CMD ["bash", "run.sh"]
