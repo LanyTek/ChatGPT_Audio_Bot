@@ -1,0 +1,15 @@
+torch==1.13.1
+torchaudio==0.13.1
+tqdm==4.65.0
+more-itertools==9.1.0
+transformers>=4.19.0
+ffmpeg-python==0.2.0
+soundfile==0.10.3.post1
+Cython==0.29.33
+fastapi==0.93.0
+uvicorn==0.21.0
+pynini==2.1.5
+numpy==1.23.5
+streamlit==1.20.0
+streamlit_webrtc==0.45.0
+pyannote.audio
