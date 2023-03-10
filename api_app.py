@@ -34,7 +34,7 @@ audio_generator = "univnet"
 
 parser = argparse.ArgumentParser()
 parser.add_argument("--port", type=int, default=10000)
-parser.add_argument("--model_name", type=str, default="base")
+parser.add_argument("--model_name", type=str, default="medium.en")
 args = parser.parse_args()
 
 
