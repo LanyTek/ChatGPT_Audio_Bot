@@ -34,3 +34,10 @@ Wait until streamlit server is ready, then open http://localhost:8501 in your br
 - `CHATGPT_CONTEXT_LENGTH` - Number of historical messages to use as context for the next message. Default is 5.
 - `CHATGPT_MAX_LENGTH` - Maximum length of the request. Default is 500.
 - `API_KEY` - API key for streamlit server. Used to enforce basic authentication to the service. Default is ``.
+
+## Video Demo
+<p style="text-align:center;">
+<a href="https://www.youtube.com/watch?v=e9n0BJfMyKw">
+<img src="data/demo.png" width="500" >
+</a>
+</p>
